@@ -28,7 +28,7 @@
   "dependencies": {
     "commander": "^8.1.0",
     "dotenv": "^10.0.0",
-    "graphql": "^15.5.2",
+    "graphql": "^16.8.1",
     "graphql-request": "^4.3.0",
     "prompts": "^2.4.1",
     "square": "^22.0.0",
