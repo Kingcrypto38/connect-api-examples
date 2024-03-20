@@ -19,7 +19,7 @@
     "morgan": "*",
     "pug": "^3.0.2",
     "serve-favicon": "*",
-    "square": "^25.1.0"
+    "square": "^26.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
