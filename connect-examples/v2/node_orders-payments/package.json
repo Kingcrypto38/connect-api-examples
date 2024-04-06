@@ -14,7 +14,7 @@
     "cookie-parser": "*",
     "debug": "*",
     "dotenv": "^8.2.0",
-    "eslint": "^6.1.0",
+    "eslint": "^9.0.0",
     "express": "*",
     "morgan": "*",
     "pug": "^3.0.2",
