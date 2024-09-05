@@ -17,9 +17,9 @@
     "eslint": "^6.1.0",
     "express": "*",
     "morgan": "*",
-    "pug": "^3.0.2",
+    "pug": "^3.0.3",
     "serve-favicon": "*",
-    "square": "^25.1.0"
+    "square": "^37.1.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
