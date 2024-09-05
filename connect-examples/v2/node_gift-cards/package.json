@@ -24,8 +24,8 @@
     "express": "^4.18.2",
     "express-session": "^1.17.3",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.7",
-    "square": "^33.0.0"
+    "nodemon": "^3.0.0",
+    "square": "^37.1.1"
   },
   "devDependencies": {
     "eslint": "^7.28.0"
