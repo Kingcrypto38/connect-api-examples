@@ -7,11 +7,11 @@
     "test": "NODE_ENV=sandbox node ./bin/www"
   },
   "dependencies": {
-    "body-parser": "*",
+    "body-parser": "1.20.3",
     "cookie-parser": "*",
     "debug": "*",
     "dotenv": "^8.2.0",
-    "express": "*",
+    "express": "4.20.0",
     "morgan": "*",
     "pug": "^3.0.2",
     "square": "^33.0.0"
