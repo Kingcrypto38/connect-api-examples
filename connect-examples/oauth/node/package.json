@@ -10,7 +10,7 @@
   "dependencies": {
     "cookie-parser": "*",
     "dotenv": "^8.2.0",
-    "express": "*",
+    "express": "4.21.0",
     "square": "^33.0.0",
     "ejs": "*"
   }
