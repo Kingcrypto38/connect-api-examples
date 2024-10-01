@@ -1,3 +1,4 @@
 flask
 squareup==33.0.0.20231115
 python-dotenv
+jsonpickle>=3.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
