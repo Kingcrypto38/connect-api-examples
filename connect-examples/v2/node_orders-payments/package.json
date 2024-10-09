@@ -11,11 +11,11 @@
   },
   "dependencies": {
     "body-parser": "*",
-    "cookie-parser": "*",
+    "cookie-parser": "1.4.7",
     "debug": "*",
     "dotenv": "^8.2.0",
     "eslint": "^6.1.0",
-    "express": "*",
+    "express": "4.21.1",
     "morgan": "*",
     "pug": "^3.0.2",
     "serve-favicon": "*",
