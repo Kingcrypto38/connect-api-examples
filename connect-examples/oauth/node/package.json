@@ -11,7 +11,7 @@
     "cookie-parser": "*",
     "dotenv": "^8.2.0",
     "express": "*",
-    "square": "^33.0.0",
+    "square": "^37.1.1",
     "ejs": "*"
   }
 }
