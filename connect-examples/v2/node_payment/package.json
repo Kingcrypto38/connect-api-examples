@@ -12,7 +12,7 @@
     "debug": "*",
     "dotenv": "^8.2.0",
     "express": "*",
-    "morgan": "*",
+    "morgan": "1.10.1",
     "pug": "^3.0.2",
     "square": "^33.0.0"
   }
