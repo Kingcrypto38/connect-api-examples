@@ -10,16 +10,16 @@
     "help": "NODE_ENV=sandbox node ./bin/script/seed-catalog.js --help"
   },
   "dependencies": {
-    "body-parser": "*",
+    "body-parser": "1.20.4",
     "cookie-parser": "*",
     "debug": "*",
     "dotenv": "^8.2.0",
-    "eslint": "^6.1.0",
-    "express": "*",
+    "eslint": "^9.0.0",
+    "express": "4.22.0",
     "morgan": "*",
     "pug": "^3.0.2",
     "serve-favicon": "*",
-    "square": "^25.1.0"
+    "square": "^26.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
